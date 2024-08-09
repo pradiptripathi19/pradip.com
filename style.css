@@ -1,0 +1,292 @@
+body {
+    background-color: rgba(255, 255, 255,25555);
+    background-position: center;
+    min-width: 720px;
+    max-width: 1920px;
+}
+header {
+    background: rgb(255, 255, 255);
+    background-position: center;
+}
+button {
+    margin: 2px;
+    animation: forwards;
+    border: none;
+    transition: 0.319s ease;
+    width: 110px;
+    height: 45px;
+    background:none;
+    font-size:16.19px;
+    color: rgb(0, 0, 0);
+    display: inline-block;
+    padding: 10px 15px;
+    text-align: center;
+    cursor: pointer;
+    color: rgb(147, 147, 240);
+}
+button:hover {
+    transform: scale(1.5);
+    color: black;
+}
+.login1 {
+    margin-left: 730px;
+}
+.search1 input {
+    background-color: #dfdfdf;
+    color: rgb(0, 0, 0);
+    height: 40px;
+    width: 250.19px;
+    border-radius: 19px;
+    border: none;
+    font-size:medium;
+}
+::placeholder {
+    color: rgb(0, 0, 0);
+    padding-left: 7px;
+}
+.elon h3 {
+    color: #ffffff;
+    font-size: 30;
+}
+.elon img {
+    width: 200px;
+    height: 200px;
+}
+.tech video {
+    width: 400px;
+    height: 400px;
+}
+iframe {
+    background:none;
+    border: none;
+}
+.login0 a {
+    color: azure;
+    text-decoration: none;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 19.19px;
+    margin: 2px;
+}
+footer {
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: normal;
+    background-color: grey;
+}
+.tech p {
+    color: white;
+    font-family: sans-serif;
+    font: bolder;
+    font-size: larger;
+    padding-left: 2px;
+    font-style: italic;
+}
+.p2 p {
+    color: white;
+    font-family: sans-serif;
+    font-size: larger;
+    font-style: italic;
+}
+footer p {
+    font-size: medium;
+    font-style: normal;
+}
+.button00 img {
+    width: 120px;
+    height: 100px;
+}
+.button2 {
+    text-align: center;
+}
+.button00 button {
+    transition: none;
+}
+.button00 button:hover {
+    transform: none;
+}
+.p3 p {
+    color: rgb(66, 138, 247);
+    font-size: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.ai4 {
+    text-align: left;
+}
+.ai4 img {
+    width: 1000px;
+}
+.ait {
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 1000px;
+    color: rgb(255, 255, 255);
+    font-size: 24px;
+    text-shadow: 1px 1px 1px rgb(255, 255, 255);
+}
+.ait1 {
+    font-family: Arial, sans-serif;
+    color: rgb(255, 255, 255);
+    font-size: 24px;
+    text-shadow: 1px 1px 1px rgb(255, 255, 255);
+}
+.ait2 {
+    font-family: Arial, sans-serif;
+    color: rgb(255, 255, 255);
+    margin-left: 600px;
+    font-size: 24px;
+    text-shadow: 1px 1px 1px rgb(255, 255, 255);
+}
+.tech0 {
+    color: cyan;
+    font-size: 100px;
+}
+.iframe00 {
+    text-align: right;
+    margin-top: 15px;
+}
+.p3 {
+    background: none;
+}
+.get1 {
+    background: white;
+    text-align: center;
+}
+.get1 p {
+    color: rgb(0, 0, 0);
+    font-size: medium;
+}
+.get1 button {
+    margin: 2px;
+    padding-left: 5px;
+    color: black;
+    background: rgb(230, 121, 121);
+    width: 230px;
+    color: rgb(255, 255, 255);
+    box-shadow: 10px 10px  rgb(211, 208, 208);
+}
+.qwerty2 {
+    float: right;
+    color: rgb(90, 90, 248);
+    transition: 0.3 ease-in-out;
+}
+.qwerty1 {
+    float: right;
+    background-color: rgb(245, 120, 120);
+    color: white;
+    border-radius: 25px;
+    width: 150px;
+    height: 40px;
+    transition: 0.3 ease-in-out;
+}
+.qwerty2:hover {
+    transform: scale(1.1);
+    color: black;
+}
+.qwerty1:hover {
+    transform: scale(1.1);
+    background-color: aqua;
+    color: #dfdfdf;
+}
+.p5 p {
+    font-size: 25px;
+    color: rgb(109, 110, 110);
+    margin-top: -60;
+    font-family: arial;
+}
+.p5 img {
+    float: left;
+    width: 650px;
+    margin-top: -200;
+}
+.href0  a{
+    color: rgb(87, 89, 92);
+    font-size: 25px;
+    text-decoration: underline;
+    text-decoration-color: black;
+    font-family: Arial;
+    font-weight: 551;
+}
+.ai119 {
+    margin-left: 500;
+}
+.ai119 img {
+    margin-top: 150;
+    float: right;
+}
+.danger {
+    margin-top: 550;
+}
+.danger p {
+    font-family: Arial; 
+    font-size: 74px; 
+    color: rgb(95, 95, 95);
+    text-align: left;
+}
+.danger2 p {
+    text-align: justify;
+    text-justify: inter-word;
+    width: 900px;
+    font-size: 25px;
+    color: rgb(109, 110, 110);
+    margin-top: -60;
+    font-family: arial;
+}
+.danger4 {
+    text-align: right;
+    font-family: Arial; 
+    font-size: 74px; 
+    color: rgb(95, 95, 95);
+    margin-top: 150;
+}
+.danger3 {
+    margin-top: -200;
+}
+.danger3 img {
+    width: 800px;
+}
+.danger5 {
+    text-align: justify;
+    text-justify: inter-word;
+    width: 785px;
+    font-size: 25px;
+    color: rgb(109, 110, 110);
+    margin-top: -80;
+    font-family: arial;
+    float: right;
+}
+.foot1 a {
+    color: grey;
+    font-family: Arial;
+    margin: 40px;
+    text-decoration: none;
+    float: left;
+}
+.foot1 footer {
+    background-color: rgb(255, 255, 255);
+    border-color: black;
+    text-decoration: none;
+}
+body, html {
+    margin: 0;
+    padding: 0;
+}
+footer {
+    border: none;
+    border-top: 1px solid black;
+    margin: 0 auto;
+    width: 1950px;
+    text-align: center;
+    text-decoration: none;
+    padding: auto;
+}
+.footer0 {
+    text-decoration: none;
+}
+.foot4 {
+    text-align: center;
+    color: grey;
+    font-family: Arial;
+    text-decoration: none;
+    padding-top: 80;
+    padding-bottom: 20px;
+}
